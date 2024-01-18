@@ -15,3 +15,16 @@
 # 单词释义区：显示生词意思
 
 ps：代码写的很乱，只是能用，纯粹是拿出来分享，使用请注明来源谢谢啦
+
+
+#The reason is that when reading English texts, it is very painful to check the pronunciation of words, especially how important it is to check whether the word is in the exam syllabus. So, referring to the Mengge English Reader, I wrote an English reader in my spare time that is marked by color, with different difficulty levels displayed in different colors
+#Input area: Copying text into the input area will automatically scan
+#Reading area: Left click on new words to display translation, middle click on new word pronunciation, right click on new word to add to vocabulary book
+Green: middle and high school
+Red: Level 4 or 6
+Purple: IELTS
+The specific difficulty level of hierarchical annotation can be found in the source code, all of which have annotations
+#Cache area: Vocabulary
+#Log area: Display program running status
+#Word Definition Area: Display the meaning of new words
+PS: The code is written haphazardly, but it can be used purely for sharing. Please indicate the source when using it. Thank you
